@@ -5,6 +5,10 @@
 *.userosscache
 *.sln.docstates
 
+
+*.htm
+Backup
+
 # IDE
 .idea
 

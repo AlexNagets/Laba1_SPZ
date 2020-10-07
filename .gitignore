@@ -1,0 +1,14 @@
+﻿# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# IDE
+.idea
+
+# Build results
+bin
+obj
+packages
